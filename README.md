@@ -1,16 +1,3 @@
 # wit
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a receipe app. Where user first have to make an account. For that user have to go sign up page and then need to enter a required details. This sign up page redirect to login page. Login page will redirect to the home screen. There will be a add receipe option where user can add their own receipe and it will be displayed on the homescreen.
